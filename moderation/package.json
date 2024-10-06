@@ -1,0 +1,16 @@
+{
+	"name": "blog",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/webgeny/post-microservice-architecture.git",
+	"author": "evgeny <evgenyvolovlikov@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^1.7.7",
+		"express": "^4.21.0",
+		"nodemon": "^3.1.7"
+	},
+	"scripts": {
+		"start": "nodemon index.js"
+	}
+}
